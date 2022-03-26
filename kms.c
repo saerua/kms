@@ -9,6 +9,7 @@ int main(){
 	int b;
 	char c;
 	double kms;
+	printf("Hello World!");
 
 	printf("Enter the distance in miles:");
 	scanf("%lf", &miles);
